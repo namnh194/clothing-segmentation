@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Clothes Segmentation using DeepLabV3+</h1>
+  <h1 align="center">Clothes Segmentation using DeepLabV3+ (I clone this just bc think its cool and cute...)</h1>
   <p align="center">
     Train the DeepLabV3+ model on Colab with Tensorflow API.
     <br />
